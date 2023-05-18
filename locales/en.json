@@ -1,0 +1,19 @@
+{
+  "welcome": "Welcome",
+  "chatSystem": "Chat System",
+  "status": {
+    "troubleshooting": "Troubleshooting",
+    "inMeeting": "In Meeting",
+    "onBreak": "On Break"
+  },
+  "role": {
+    "manager": "Manager",
+    "agent": "Agent",
+    "IT": "IT",
+    "TL": "Team Leader"
+  },
+  "location": {
+    "home": "Home",
+    "office": "Office"
+  }
+}
